@@ -25,10 +25,4 @@
 * TMDB (The Movie Data Base) https://www.themoviedb.org/
 * Yandex.Translate  https://translate.yandex.com/
 
-## Final Words
-* Thank you Professor Ritter for all the helps and support through out the semester!
-* Thank you Yating for all your advices on Github as well as slack, they helped me a lot!
-* My code may looks quite messy, Because I was planning on putting a lot of codes in separate components, and utilize `useReducer` and `useContext` to make my code looks neater and more logical, but it turns out that I don't have enough time to do so... I will work on it after the submission. But don't worry, the functionality of the app is intact. 
-* Happy Holiday!!!!!!
-
 

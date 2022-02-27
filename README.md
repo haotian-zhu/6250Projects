@@ -3,7 +3,7 @@
 
 ## Overview
 * This is a application that:
-    * Have information about a comprehnesove collection of films, from oldest to newest
+    * Have information about a comprehnesive collection of films, from oldest to newest
     * Display the top rated films by default
     * Allow the users to search for films by name
     * Give the user the ability to translate their comment in a variety of languages of their choice
